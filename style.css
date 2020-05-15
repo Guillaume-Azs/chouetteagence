@@ -1218,6 +1218,9 @@ h4 {
 .li a {
   text-decoration: none;
 }
+.navigation {
+  font-size: 20px;
+}
 
 @media screen and (max-width: 1200px) {
   .navbar-header2 {
@@ -1230,8 +1233,8 @@ h4 {
     width: 100px;
   }
   .navigation {
-    margin-right: 140px;
-    font-size: 25px;
+    margin-right: 110px;
+    font-size: 20px;
     margin-bottom: 20px;
   }
   .li li {
