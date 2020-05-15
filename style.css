@@ -594,6 +594,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
   max-height: 40vh;
   margin: 0 auto;
+  margin-bottom: 9px;
 }
 
 .lightbox-caption {
@@ -848,7 +849,66 @@ h4 {
     display: block;
   }
 }
-
+@media screen and (max-width: 700px) {
+  .images1 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .images1 {
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .images1 {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .images2 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .images2 {
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .images2 {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .images3 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .images3 {
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .images3 {
+    margin-left: 10px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .images4 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .images4 {
+    margin-left: 30px;
+  }
+}
+@media screen and (max-width: 440px) {
+  .images4 {
+    margin-left: 10px;
+  }
+}
 .avatar {
   box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
