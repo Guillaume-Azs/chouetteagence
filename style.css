@@ -788,7 +788,22 @@ h4 {
   .portfolio-thumb {
     width: 600px;
     height: 600px;
-    margin-left: 15%;
+    margin-left: 20%;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .portfolio-thumb {
+    margin-left: 18%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .portfolio-thumb {
+    margin-left: 5%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .portfolio-thumb {
+    margin-left: 3%;
   }
 }
 
