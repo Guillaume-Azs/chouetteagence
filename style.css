@@ -592,7 +592,7 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog img {
-  max-height: 90vh;
+  max-height: 40vh;
   margin: 0 auto;
 }
 
